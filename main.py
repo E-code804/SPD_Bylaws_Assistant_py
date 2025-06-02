@@ -1,4 +1,6 @@
 # main.py - activate venv: source ~/envs/bylaw-assistant/bin/activate
+# Run indexing: python index_bylaws.py
+# To run FastAPI: uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 import os
 from dotenv import load_dotenv
