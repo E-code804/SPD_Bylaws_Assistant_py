@@ -1,5 +1,9 @@
 # Fraternity Bylaws Assistant for the Beta-Iota Chapter of Sigma Phi Delta
 
+Check out the video demonstration of the project [here](https://youtu.be/1G1OCJge1X8)
+Also, here is the code for the frontend [here](https://github.com/E-code804/SPD_Bylaws_Assistant_next)
+I am only displaying a video demonstration of this project to prevent misuse and/or overuse of my OpenAPI account, thank you for understanding.
+
 A retrieval-augmented LLM service that answers natural-language questions SPD's bylaws. This repository contains:
 
 1. **Indexing script (`index_bylaws.py`)**  
